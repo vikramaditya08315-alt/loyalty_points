@@ -1,0 +1,7 @@
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://stacks-node.testnet.stacks.co"
+bitcoin-node: "https://bitcoin-node.testnet.stacks.co"
+plan:
+  batches: []
