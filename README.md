@@ -14,7 +14,7 @@ To provide a transparent, secure, and decentralized loyalty rewards platform tha
 - Expansion to Testnet/Mainnet for real-world deployment.
 
 ## Contract Address
-Deployed on Devnet using Clarinet. For local development, see the `deployments/default.devnet-plan.yaml` file for details.
+Deployed on Devnet using Clarinet at STB6Z9BTVPNCDJFHKZJR0WGYZ6H2319V1BGZYYBV
 
 ---
 
